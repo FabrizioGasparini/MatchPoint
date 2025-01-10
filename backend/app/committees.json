@@ -1,0 +1,804 @@
+{
+    "committees": [
+        {
+            "address": "Strada del Meisino 19 - 10132 Torino ",
+            "email": "comgare@piemonte.federvolley.it ",
+            "id": "01000",
+            "logo": "https://fipavonline.it/img/loghi/CRPiemonte.gif",
+            "name": "COMITATO REGIONALE DEL PIEMONTE",
+            "phone": "Tel. 011/890.2002 - Fax 011/890.50.85",
+            "region": "Piemonte",
+            "title": "C.R. PIEMONTE"
+        },
+        {
+            "address": "Via Stoppani 18 Ter - 12100 Cuneo",
+            "email": "cuneoasti@federvolley.it",
+            "id": "01003",
+            "logo": "https://fipavonline.it/img/loghi/ct_cuas.png",
+            "name": "COMITATO TERRITORIALE CUNEO-ASTI",
+            "phone": "Tel. 0171/695673 Fax: 0171/695673",
+            "region": "Piemonte",
+            "title": "C.T. CUNEO-ASTI"
+        },
+        {
+            "address": "PIAZZALE FORTINA 5B - 28100 Novara ",
+            "email": "ticinosesiatanaro@federvolley.it",
+            "id": "01004",
+            "logo": "https://fipavonline.it/img/loghi/ct_tst1.png",
+            "name": "COMITATO TERRITORIALE TICINO SESIA TANARO",
+            "phone": "Tel. 0321/35051 fax 0321/695664",
+            "region": "Piemonte",
+            "title": "C.T. TICINO SESIA TANARO"
+        },
+        {
+            "address": "Strada del Meisino 19 - 10132 Torino ",
+            "email": "campionati@torino.federvolley.it ",
+            "id": "01005",
+            "logo": "https://fipavonline.it/img/loghi/CPtorino.gif",
+            "name": "COMITATO TERRITORIALE TORINO",
+            "phone": "Tel. 011/890.2002 - Fax 011/890.50.84",
+            "region": "Piemonte",
+            "title": "C.T. TORINO"
+        },
+        {
+            "address": "Strada del Meisino 19 - 10132 Torino ",
+            "email": "settoregiovanileM@piemonte.federvolley.it",
+            "id": "01918",
+            "logo": "https://fipavonline.it/img/loghi/01918.gif",
+            "name": "Settore Giovanile Maschile",
+            "phone": "Tel. 011/890.2002 - Fax 011/890.50.84",
+            "region": "Piemonte",
+            "title": "Settore Promozionale Torino"
+        },
+        {
+            "address": "c/o Palaindoor - Corso Lancieri 41/A, 11100 AOSTA",
+            "email": "aosta@federvolley.it",
+            "id": "02000",
+            "logo": "https://fipavonline.it/img/loghi/cr_aosta.png",
+            "name": "COMITATO REGIONALE VALLE D'AOSTA",
+            "phone": "Tel e Fax 0165 23.65.68",
+            "region": "Valle d'Aosta",
+            "title": "C.R. VALLE D'AOSTA"
+        },
+        {
+            "address": "Via Ippolito D'Aste 3/6 sc.sin. -16121 GENOVA",
+            "email": "liguria@federvolley.it",
+            "id": "03000",
+            "logo": "https://fipavonline.it/img/loghi/liguria.gif",
+            "name": "COMITATO REGIONALE LIGURIA",
+            "phone": "Tel. 010/8370372 - 010/8370364",
+            "region": "Liguria",
+            "title": "C.R. LIGURIA"
+        },
+        {
+            "address": "Via Ippolito D'Aste 3/6 sc.sin. -16121 GENOVA",
+            "email": "liguriacentro@federvolley.it",
+            "id": "03008",
+            "logo": "https://fipavonline.it/img/loghi/ligc.png",
+            "name": "COMITATO TERRITORIALE LIGURIA CENTRO",
+            "phone": "Tel. 010/8395055 - Fax  010/811738",
+            "region": "Liguria",
+            "title": "C.T. LIGURIA CENTRO"
+        },
+        {
+            "address": "Via Montenotte 2/2 c/o CONI , 17100 Savona SV",
+            "email": "ponente@federvolley.it",
+            "id": "03011",
+            "logo": "https://fipavonline.it/img/loghi/pon.png",
+            "name": "COMITATO TERRITORIALE LIGURIA PONENTE",
+            "phone": "Telefono e fax: 019 853084",
+            "region": "Liguria",
+            "title": "C.T. LIGURIA PONENTE"
+        },
+        {
+            "address": "Viale Italia 547 - 19125 LA SPEZIA ",
+            "email": "levante@federvolley.it",
+            "id": "03104",
+            "logo": "https://fipavonline.it/img/loghi/ct_levante.png",
+            "name": "COMITATO TERRITORIALE LIGURIA LEVANTE",
+            "phone": "tel/fax 0187 515438",
+            "region": "Liguria",
+            "title": "C.T. LIGURIA LEVANTE"
+        },
+        {
+            "address": "Via Gleno 2/L, 24125 Bergamo",
+            "email": "bergamo@federvolley.it",
+            "id": "04012",
+            "logo": "https://fipavonline.it/img/loghi/ct_bg.png",
+            "name": "COMITATO TERRITORIALE BERGAMO",
+            "phone": "Tel. 035 217371 - Fax 035 213225",
+            "region": "Lombardia",
+            "title": "C.T. BERGAMO"
+        },
+        {
+            "address": "25127  BRESCIA - Via Bazoli, 10",
+            "email": "gare.brescia@federvolley.it",
+            "id": "04013",
+            "logo": "https://fipavonline.it/img/loghi/Brescia.gif",
+            "name": "COMITATO TERRITORIALE BRESCIA",
+            "phone": "Tel. 030/313400 ",
+            "region": "Lombardia",
+            "title": "C.T. BRESCIA"
+        },
+        {
+            "address": "VIALE MASIA 42 - 22100 COMO",
+            "email": "fipav.como.gare@gmail.com",
+            "id": "04014",
+            "logo": "https://fipavonline.it/img/loghi/ct_como.png",
+            "name": "COMITATO TERRITORIALE COMO",
+            "phone": "031/57.04.95 - 031/57.07.43",
+            "region": "Lombardia",
+            "title": "C.T. COMO"
+        },
+        {
+            "address": "Piazzale Valgoi 5 - Sondrio",
+            "email": "sondrio@federvolley.it",
+            "id": "04019",
+            "logo": "https://fipavonline.it/img/loghi/sondrio.png",
+            "name": "COMITATO TERRITORIALE SONDRIO",
+            "phone": "Tel. 0342/219502 Fax 0342/219502",
+            "region": "Lombardia",
+            "title": "C.T. SONDRIO"
+        },
+        {
+            "address": "21100 Varese - via Cesare Correnti 2",
+            "email": "varese@federvolley.it",
+            "id": "04020",
+            "logo": "https://fipavonline.it/img/loghi/varese.png",
+            "name": "COMITATO TERRITORIALE VARESE",
+            "phone": "Tel. 0332/310311 ",
+            "region": "Lombardia",
+            "title": "C.T. VARESE"
+        },
+        {
+            "address": "VIA PELLICO, 14 - 43125 PARMA",
+            "email": "parma@federvolley.it",
+            "id": "08038",
+            "logo": "https://fipavonline.it/img/loghi/parma.gif",
+            "name": "COMITATO TERRITORIALE PARMA",
+            "phone": "Tel. 0521/942721 - Fax 0521/951385",
+            "region": "Emilia Romagna",
+            "title": "C.T. PARMA"
+        },
+        {
+            "address": "60131 Ancona  - S.P. Cameranense",
+            "email": "marche@federvolley.it",
+            "id": "09000",
+            "logo": "https://fipavonline.it/img/loghi/marche_new.png",
+            "name": "COMITATO REGIONALE MARCHE",
+            "phone": "Tel. 071/2901016 - Fax. 071/2900963",
+            "region": "Marche",
+            "title": "C.R. MARCHE"
+        },
+        {
+            "address": "60131 Ancona  - S.P. Cameranense",
+            "email": "ancona@federvolley.it",
+            "id": "09042",
+            "logo": "https://fipavonline.it/img/loghi/Ancona.gif",
+            "name": "COMITATO TERRITORIALE ANCONA",
+            "phone": "Tel. 071/2901022 - Fax. 071/2900963",
+            "region": "Marche",
+            "title": "C.T. ANCONA"
+        },
+        {
+            "address": "63100 Ascoli Piceno - VIA DE DOMINICIS, 10 ",
+            "email": "ascolipicenofermo@federvolley.it",
+            "id": "09043",
+            "logo": "https://fipavonline.it/img/loghi/ascoli.gif",
+            "name": "COMITATO TERRITORIALE ASCOLI PICENO",
+            "phone": "Tel. 0736/261084 - Fax: 0736/251311",
+            "region": "Marche",
+            "title": "C.T. ASCOLI PICENO"
+        },
+        {
+            "address": "c/o CONI - Via D. Annibali, 110 - 62100 MACERATA",
+            "email": "macerata@federvolley.it",
+            "id": "09044",
+            "logo": "https://fipavonline.it/img/loghi/ct_mc_sm.png",
+            "name": "COMITATO TERRITORIALE MACERATA",
+            "phone": "Tel. 0733.281853",
+            "region": "Marche",
+            "title": "C.T. MACERATA"
+        },
+        {
+            "address": "61032 Fano - Via Tomassoni 25",
+            "email": "info@fipavpesaro.it",
+            "id": "09045",
+            "logo": "https://fipavonline.it/img/loghi/pu.gif",
+            "name": "COMITATO TERRITORIALE PESARO URBINO",
+            "phone": "Tel. 0721/827529 Fax 0721/820392",
+            "region": "Marche",
+            "title": "C.T. PESARO URBINO"
+        },
+        {
+            "address": "Via Pier Capponi, 8 - 50132 Firenze",
+            "email": "toscana@federvolley.it ",
+            "id": "10000",
+            "logo": "https://fipavonline.it/img/loghi/toscana.gif",
+            "name": "COMITATO REGIONALE TOSCANA",
+            "phone": "Tel. 055/584299 Fax 055/581628 ",
+            "region": "Toscana",
+            "title": "C.R. TOSCANA"
+        },
+        {
+            "address": "Via Pratese 13 - 50145 Firenze",
+            "email": "comitato@fipavfirenze.it",
+            "id": "10047",
+            "logo": "https://fipavonline.it/img/loghi/firenze.gif",
+            "name": "COMITATO TERRITORIALE FIRENZE",
+            "phone": "Tel. 055/6580045 fax 055/6810899",
+            "region": "Toscana",
+            "title": "C.T. FIRENZE"
+        },
+        {
+            "address": "Viale Einaudi 150 - 55100 Lucca",
+            "email": "appenninotoscano@federvolley.it",
+            "id": "10051",
+            "logo": "https://fipavonline.it/img/loghi/at.png",
+            "name": "COMITATO TERRITORIALE APPENNINO TOSCANO",
+            "phone": "Tel. 0583312807 Fax 0583312807",
+            "region": "Toscana",
+            "title": "C.T. APPENNINO TOSCANO"
+        },
+        {
+            "address": "Via Malagoli n. 12 56124 Pisa",
+            "email": "gare.bassotirreno@federvolley.it",
+            "id": "10052",
+            "logo": "https://fipavonline.it/img/loghi/bt.png",
+            "name": "COMITATO TERRITORIALE BASSO TIRRENO",
+            "phone": "Tel. 050/29409-26176 Fax 050/49251",
+            "region": "Toscana",
+            "title": "C.T. BASSO TIRRENO"
+        },
+        {
+            "address": "00196 ROMA - Via Flaminia, 380",
+            "email": "gare@fipavlazio.it",
+            "id": "12000",
+            "logo": "https://fipavonline.it/img/loghi/Lazio.gif",
+            "name": "COMITATO REGIONALE LAZIO",
+            "phone": "Tel. 06.3232308 - Fax 06.3232287",
+            "region": "Lazio",
+            "title": "C.R. LAZIO"
+        },
+        {
+            "address": "VIA MOROLENSE, 27 - C/O CENTRO DIREZIONALE LE TORRI - 03100 Frosinone",
+            "email": "frosinone@federvolley.it ",
+            "id": "12057",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr80EtOcbYs7cWduDoi_Hhoz0FKG3iYPA6Qw&s",
+            "name": "COMITATO TERRITORIALE FROSINONE",
+            "phone": "Tel. 0775/823555 Fax: 0775/874802",
+            "region": "Lazio",
+            "title": "C.T. FROSINONE"
+        },
+        {
+            "address": "via Pontinia, 78 - 04100 Latina",
+            "email": "latina@federvolley.it ",
+            "id": "12058",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkB1DD7osJJDCbS2l6MeJpcxEB_Oi9bMq77g&s",
+            "name": "COMITATO TERRITORIALE LATINA",
+            "phone": "Tel. 0773/488038 - fax: 0773/694126 ",
+            "region": "Lazio",
+            "title": "C.T. LATINA"
+        },
+        {
+            "address": "00196 Roma - Via Flaminia 362",
+            "email": "gare@fipavroma.it",
+            "id": "12060",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqGg3BA8jT-srCq1KzuQ3OFs7BGHenK-VIA&s",
+            "name": "COMITATO TERRITORIALE ROMA",
+            "phone": "Tel. 06/3214408-06/3214393 - Fax 06/3216074",
+            "region": "Lazio",
+            "title": "C.T. ROMA"
+        },
+        {
+            "address": "Via Dei Monti Cimini, 19 - 01100 Viterbo",
+            "email": "viterbo@federvolley.it",
+            "id": "12061",
+            "logo": "https://www.viterbofipav.it/wp-content/uploads/2024/06/cropped-logo_nuovo_Trasp_FIPAV.png",
+            "name": "COMITATO TERRITORIALE VITERBO",
+            "phone": "Tel. 0761/321615 - Fax: 0761/328056",
+            "region": "Lazio",
+            "title": "C.T. VITERBO"
+        },
+        {
+            "address": "ABRUZZO",
+            "email": "abruzzo@federvolley.it",
+            "id": "14000",
+            "logo": "https://fipavonline.it/img/loghi/14000.gif",
+            "name": "COMITATO REGIONALE ABRUZZO",
+            "phone": "0871-346833 0871-347833",
+            "region": "Abruzzo",
+            "title": "C.R. ABRUZZO"
+        },
+        {
+            "address": "CHIETI",
+            "email": "abruzzosudest@federvolley.it",
+            "id": "14067",
+            "logo": "https://fipavonline.it/img/loghi/ase.png",
+            "name": "COMITATO TERRITORIALE ABRUZZO SUD-EST",
+            "phone": "0871.346833",
+            "region": "Abruzzo",
+            "title": "C.T. ABRUZZO SUD-EST"
+        },
+        {
+            "address": "Via Porta Carrese, 45 - 64100 Teramo",
+            "email": "abruzzonordovest@federvolley.it",
+            "id": "14068",
+            "logo": "https://fipavonline.it/img/loghi/ct_no.png",
+            "name": "COMITATO TERRITORIALE ABRUZZO NORD OVEST",
+            "phone": "0861242883",
+            "region": "Abruzzo",
+            "title": "C.T. ABRUZZO NORD OVEST"
+        },
+        {
+            "address": "Via S. Parodi - 89900 VIbo Valentia Marina",
+            "email": "calabria@federvolley.it",
+            "id": "17000",
+            "logo": "https://fipavonline.it/img/loghi/calabria.png",
+            "name": "COMITATO REGIONALE CALABRIA",
+            "phone": "Tel. 0963/42899 - Fax 0963/1930305",
+            "region": "Calabria",
+            "title": "C.R. CALABRIA"
+        },
+        {
+            "address": "via Lazio n. 2 - 88046 Lamezia Terme",
+            "email": "calabriacentro@federvolley.it",
+            "id": "17080",
+            "logo": "https://fipavonline.it/img/loghi/cal_centro.png",
+            "name": "COMITATO TERRITORIALE CATANZARO",
+            "phone": "Tel. 0968/405806 ",
+            "region": "Calabria",
+            "title": "C.T. CATANZARO"
+        },
+        {
+            "address": "via Roma, 170 - 87100 Cosenza",
+            "email": "cosenza@federvolley.it",
+            "id": "17081",
+            "logo": "https://fipavonline.it/img/loghi/cosenza.gif",
+            "name": "COMITATO TERRITORIALE COSENZA",
+            "phone": "Tel. 0984/391307 Fax 0984/391307",
+            "region": "Calabria",
+            "title": "C.T. COSENZA"
+        },
+        {
+            "address": "Via Sbarre Centrali, 359 - 89132 Reggio Calabria",
+            "email": "reggiocalabria@federvolley.it",
+            "id": "17082",
+            "logo": "https://fipavonline.it/img/loghi/rc.gif",
+            "name": "COMITATO TERRITORIALE REGGIO CALABRIA",
+            "phone": "CELL.PRESIDENTE 3357358621",
+            "region": "Calabria",
+            "title": "C.T. REGGIO CALABRIA"
+        },
+        {
+            "address": "Via degli Eucalipti 2, 92100 - Agrigento",
+            "email": "gare@fipavakranis.it",
+            "id": "18083",
+            "logo": "https://fipavonline.it/img/loghi/ctakr.png",
+            "name": "COMITATO TERRITORIALE AKRANIS",
+            "phone": "0922 607964",
+            "region": "Sicilia",
+            "title": "C.T. AKRANIS"
+        },
+        {
+            "address": "Via Dante 200 - 09128 Cagliari",
+            "email": "sardegna@federvolley.it ",
+            "id": "19000",
+            "logo": "https://fipavonline.it/img/loghi/sardegna.gif",
+            "name": "COMITATO REGIONALE SARDEGNA",
+            "phone": "Tel. 070/497616 Fax 070/402074 ",
+            "region": "Sardegna",
+            "title": "C.R. SARDEGNA"
+        },
+        {
+            "address": "Via Sant Alenixedda 5  09128 Cagliari",
+            "email": "cagliari@federvolley.it",
+            "id": "19092",
+            "logo": "https://fipavonline.it/img/loghi/cagliari.gif",
+            "name": "COMITATO TERRITORIALE CAGLIARI",
+            "phone": "Tel. 070/495695 Fax 070/498774",
+            "region": "Sardegna",
+            "title": "C.T. CAGLIARI"
+        },
+        {
+            "address": "Via Cagliari, 242 09170 Oristano",
+            "email": "centrosardegna@federvolley.it",
+            "id": "19093",
+            "logo": "https://fipavonline.it/img/loghi/sdc.png",
+            "name": "COMITATO TERRITORIALE CENTRO SARDEGNA",
+            "phone": "Tel: 0783/71045 - Fax: 0783/302912",
+            "region": "Sardegna",
+            "title": "C.T. CENTRO SARDEGNA"
+        },
+        {
+            "address": "Via Bellieni 24 - 07100 Sassari",
+            "email": "sassari@federvolley.it",
+            "id": "19094",
+            "logo": "https://fipavonline.it/img/loghi/sassari.gif",
+            "name": "COMITATO TERRITORIALE SASSARI",
+            "phone": "Tel. 079/252550 Fax 079/252560",
+            "region": "Sardegna",
+            "title": "C.T. SASSARI"
+        },
+        {
+            "address": "VIA G.Carducci 4/c - 86100 Campobasso",
+            "email": "molise@federvolley.it",
+            "id": "20000",
+            "logo": "https://fipavonline.it/img/loghi/cr_molise.png",
+            "name": "COMITATO REGIONALE MOLISE",
+            "phone": "Tel. 0874/411383  Fax. 0874/411383",
+            "region": "Molise",
+            "title": "C.R. MOLISE"
+        },
+        {
+            "address": " Via Principe Amedeo n 29, 46100 Mantova",
+            "email": "mantova@federvolley.it",
+            "id": "04016",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjo2bE2N7ZBovoDFwdlPenE57pA0SRc0gdw&s",
+            "name": "COMITATO TERRITORIALE MANTOVA",
+            "phone": "Tel. e fax 0376/326330",
+            "region": "LOMBARDIA",
+            "title": "C.T. MANTOVA"
+        },
+        {
+            "address": "Via Pasino degli Eustachi, 2 - 27100 Pavia",
+            "email": "pavia@federvolley.it",
+            "id": "04018",
+            "logo": "http://www.fipavpavia.org/wp-content/uploads/2021/02/logofipavpv.png",
+            "name": "COMITATO TERRITORIALE PAVIA",
+            "phone": "0382 529305",
+            "region": "LOMBARDIA",
+            "title": "C.T. PAVIA"
+        },
+        {
+            "address": "Via della Malpensada, 84 - 38123 Trento",
+            "email": "segreteria@fipav.tn.it",
+            "id": "05000",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-_qwBQY4eumvfmmfrXLpn0aExOcISSRC9w&s",
+            "name": "COMITATO REGIONALE TRENTINO ALTO ADIGE",
+            "phone": "Tel. 04611860390",
+            "region": "TRENTINO-ALTO ADIGE",
+            "title": "C.R. TRENTINO ALTO ADIGE"
+        },
+        {
+            "address": "c/o Stadio Euganeo Viale Nereo Rocco - PADOVA",
+            "email": "veneto@federvolley.it",
+            "id": "06000",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDx61gKKtXanES8XMB9lMhNZKhlWUwTZUCw&s",
+            "name": "COMITATO REGIONALE VENETO",
+            "phone": "Tel 049.8658381",
+            "region": "VENETO",
+            "title": "C.R. VENETO"
+        },
+        {
+            "address": "c/o Stadio Euganeo - V.le Nereo Rocco - 35135 - Padova",
+            "email": "segreteria@fipavpd.net",
+            "id": "06024",
+            "logo": "https://www.fipavrovigo.net/files/94/0/Link/Logo/logocprovigo.jpg",
+            "name": "COMITATO TERRITORIALE PADOVA",
+            "phone": "Tel. 049.8658384",
+            "region": "VENETO",
+            "title": "C.T. PADOVA"
+        },
+        {
+            "address": "Viale Porta Adige 45/G - 45100 Rovigo",
+            "email": "rovigo@federvolley.it",
+            "id": "06025",
+            "logo": "https://www.fipavrovigo.net/files/94/0/Link/Logo/logocprovigo.jpg",
+            "name": "COMITATO TERRITORIALE ROVIGO",
+            "phone": "TEL 0425 411820",
+            "region": "VENETO",
+            "title": "C.T. ROVIGO"
+        },
+        {
+            "address": "Viale IV Novembre, 89 - 31100 Treviso",
+            "email": "info@fipavtreuno.net",
+            "id": "06026",
+            "logo": "https://ugc.production.linktr.ee/rzHHhh8OR229T1Byg0CD_A1DJR3SGhYLy1425?io=true&size=avatar-v3_0",
+            "name": "COMITATO TERRITORIALE TREVISO BELLUNO",
+            "phone": "Tel e fax 0422 277453",
+            "region": "VENETO",
+            "title": "C.T. TREVISO BELLUNO"
+        },
+        {
+            "address": "via del Gazzato, 4 30170 - Mestre Venezia (VE)",
+            "email": "venezia@federvolley.it",
+            "id": "06027",
+            "logo": "https://www.fipavvenezia.it/wp-content/uploads/2020/03/Logo_FipavVE_new1_orizz.jpg",
+            "name": "COMITATO TERRITORIALE VENEZIA",
+            "phone": "Tel: 041/970213 / Fax: 041/2394432",
+            "region": "VENETO",
+            "title": "C.T. VENEZIA"
+        },
+        {
+            "address": "c/o Stadio Bentegodi, Piazzale Olimpia, Cancello E/20 - 37138 Verona",
+            "email": "segreteria@fipavverona.it",
+            "id": "06028",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8ivtwKeyT9fefJ31SQdEvCTBwfsQyi1RBA&s",
+            "name": "COMITATO TERRITORIALE VERONA",
+            "phone": "Tel 045 580192 / Fax 045 580325",
+            "region": "VENETO",
+            "title": "C.T. VERONA"
+        },
+        {
+            "address": "Viale Trento, 288 - 36100 Vicenza",
+            "email": "info@fipavvicenza.it",
+            "id": "06029",
+            "logo": "https://lh3.googleusercontent.com/proxy/g1HIFBfF3dTTh2t_iXrdpnXXsEduggJUFmr1T6MMP24B5wkaBIGldnKzYu26jxlmUasWTimjQpDK_dTeuRZZgkNtX3BZlF8_3cBgwu0ZuuKLmnvBRYTuore4Ig",
+            "name": "COMITATO TERRITORIALE VICENZA",
+            "phone": "Tel. 0444 291868",
+            "region": "VENETO",
+            "title": "C.T. VICENZA"
+        },
+        {
+            "address": "Piazzale Azzurri d'Italia 1, Trieste",
+            "email": "friulivg@federvolley.it",
+            "id": "07000",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LLV_gfuJaNOC1hBO00mb8LpRHYdupWoMGg&s",
+            "name": "COMITATO REGIONALE FRIULI VENEZIA GIULIA",
+            "phone": "Tel. 040 3222041 / Fax 040 3222041",
+            "region": "FRIULI-VENEZIA GIULIA",
+            "title": "C.R. FRIULI VENEZIA GIULIA"
+        },
+        {
+            "address": "Via dei Macelli 5/1 - 34148 - Trieste",
+            "email": "triestegorizia@federvolley.it",
+            "id": "07031",
+            "logo": "https://www.fipavtsgo.it/images/logo/logo_fipavtsgo_quadrato_low.png",
+            "name": "COMITATO TERRITORIALE TRIESTE GORIZIA",
+            "phone": "Tel. 040.833.3319",
+            "region": "FRIULI-VENEZIA GIULIA",
+            "title": "C.T. TRIESTE GORIZIA"
+        },
+        {
+            "address": "c/o CONI Point - Dacia Arena - Curva Sud - Ingresso CS6 - Piazzale Repubblica Argentina - 33100 Udine",
+            "email": "udine@federvolley.it",
+            "id": "07032",
+            "logo": "https://udine.federvolley.it/files/2228/0/Editor/Image/testata_nuovo_logo.jpg",
+            "name": "COMITATO TERRITORIALE UDINE",
+            "phone": "Tel. 351.6115366",
+            "region": "FRIULI-VENEZIA GIULIA",
+            "title": "C.T. UDINE"
+        },
+        {
+            "address": "V.le Libert\u00e0 75 - 33170 Pordenone",
+            "email": "pordenone@federvolley.it",
+            "id": "07033",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5_B7IG0oHO8mkPgfeOlc9zLiod8bGVo-yQ&s",
+            "name": "COMITATO TERRITORIALE PORDENONE",
+            "phone": "Tel. 0434/316256",
+            "region": "FRIULI-VENEZIA GIULIA",
+            "title": "C.T. PORDENONE"
+        },
+        {
+            "address": "Via dell'Arcoveggio 49 40129 Bologna",
+            "email": "bologna@federvolley.it",
+            "id": "08034",
+            "logo": "http://www.bologna.federvolley.it/fipav-bo/media/banner/23/Banner_fipav.JPG",
+            "name": "COMITATO TERRITORIALE BOLOGNA",
+            "phone": "Tel. 051-355121 / Fax. 051-361423",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. BOLOGNA"
+        },
+        {
+            "address": "c/o Coni Via Bongiovanni 21, 44122 Ferrara",
+            "email": "ferrara@federvolley.it",
+            "id": "08035",
+            "logo": "https://federvolleyferrara.it/wp-content/uploads/2024/10/fipav-ferrara-logo-fe.jpg",
+            "name": "COMITATO TERRITORIALE FERRARA",
+            "phone": "Tel: 0532 202805 - Fax: 0532: 249895",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. FERRARA"
+        },
+        {
+            "address": "Via Calciati 14 - 29122 Piacenza",
+            "email": "comitato@fipavpiacenza.com",
+            "id": "08039",
+            "logo": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/271722794_584540326058660_8780479950337513339_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HcKLlmQWrUAQ7kNvgENGVQM&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=AV10EEjYHBVrxLW-ACYbq2L&oh=00_AYAr9Kw_crXk5qNfS0aGovO2xwSOEdoMrjoUMlYoHjo-XQ&oe=67841131",
+            "name": "COMITATO TERRITORIALE PIACENZA",
+            "phone": "Fax: 0523/1880178",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. PIACENZA"
+        },
+        {
+            "address": "Via Pirano 5, 48121 Ravenna",
+            "email": "ravenna@federvolley.it",
+            "id": "08040",
+            "logo": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/307696974_440947128140344_6578757400032895202_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=eaXrhzjlen0Q7kNvgG4Bij-&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=A8KIIIGlL2qhvp4uRQS28sy&oh=00_AYC5x5_Lpdg5MnOy9f0PMxWDUzfCQ-JdR9j_5vn8tITbWw&oe=6784074D",
+            "name": "COMITATO TERRITORIALE RAVENNA",
+            "phone": "Tel. 0544.421080",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. RAVENNA"
+        },
+        {
+            "address": "Via Adua 97, 42124 Reggio Emilia",
+            "email": "info@fipav.re.it",
+            "id": "08041",
+            "logo": "https://i.ibb.co/nbwJsGM/CTRE.png",
+            "name": "COMITATO TERRITORIALE REGGIO EMILIA",
+            "phone": "Tel. 0522 594544",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. REGGIO EMILIA"
+        },
+        {
+            "address": "c/o CONI POINT - Via Covignano, 201 - 47923 Rimini (RN)",
+            "email": "segreteria@fipavromagnauno.it",
+            "id": "08096",
+            "logo": "https://scontent-mxp1-1.xx.fbcdn.net/v/t39.30808-6/430034770_1102881387795822_5900113440875062763_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kMZrZ5eB8asQ7kNvgEIxnrx&_nc_zt=23&_nc_ht=scontent-mxp1-1.xx&_nc_gid=A0y6_pB9KOnzgSV7C8ZjO1c&oh=00_AYBr5Wbo9hUkrYHrCXbFRk67frSRxrWDP2PiJS3tVUzATQ&oe=67840A4F",
+            "name": "COMITATO TERRITORIALE ROMAGNAUNO",
+            "phone": "Tel. 0541.384226",
+            "region": "EMILIA-ROMAGNA",
+            "title": "C.T. ROMAGNAUNO"
+        },
+        {
+            "address": "Via Adriatica 111, Ponte San Giovanni 06135 Perugia (PG)",
+            "email": "umbria@federvolley.it",
+            "id": "11000",
+            "logo": "https://www.fipavumbria.it/wp-content/uploads/2024/02/cropped-LOGO-COMITATO-FIPAV-UMBRIA-2024-ORIZZ-1450.png",
+            "name": "COMITATO REGIONALE UMBRIA",
+            "phone": "075 5990646",
+            "region": "UMBRIA",
+            "title": "C.R. UMBRIA"
+        },
+        {
+            "address": "Via Nazionale delle Puglie 151/153 - Pomigliano d'Arco (NA)",
+            "email": "campania@federvolley.it",
+            "id": "13000",
+            "logo": "https://ugfipavcampania.it/img/logo.png",
+            "name": "COMITATO REGIONALE CAMPANIA",
+            "phone": "Tel. 081-6124236",
+            "region": "CAMPANIA",
+            "title": "C.R. CAMPANIA"
+        },
+        {
+            "address": "Via Palatucci 1 - 83100 Avellino",
+            "email": "irpiniasannio@federvolley.it",
+            "id": "13062",
+            "logo": "https://www.fipavirpiniasannio.it/files/93/0/Link/logobanner.jpg",
+            "name": "COMITATO TERRITORIALE IRPINIA SANNIO",
+            "phone": "Tel. 0825.781938",
+            "region": "CAMPANIA",
+            "title": "C.T. IRPINIA SANNIO"
+        },
+        {
+            "address": "Via Ferrara 32 - 81100 Caserta",
+            "email": "caserta@federvolley.it",
+            "id": "13064",
+            "logo": "https://scontent-mxp2-1.xx.fbcdn.net/v/t39.30808-6/420272026_804150641755254_1071142225256285250_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SFoku3jOlr0Q7kNvgF4cGUc&_nc_zt=23&_nc_ht=scontent-mxp2-1.xx&_nc_gid=Aby8RmVgV40KbaVuBb9neL5&oh=00_AYA59AVhVY3FCbej20PKDzgMb5DiOFRa-Pg137MQMfHF1g&oe=678403F9",
+            "name": "COMITATO TERRITORIALE CASERTA",
+            "phone": "Tel. 0823/441190",
+            "region": "CAMPANIA",
+            "title": "C.T. CASERTA"
+        },
+        {
+            "address": "Via Nazionale delle Puglie 151 - Pomigliano d'Arco (NA)",
+            "email": "napoli@federvolley.it",
+            "id": "13065",
+            "logo": "https://www.athenavolley.com/wp-content/uploads/2023/10/logo-fipav-napoli_v2.png",
+            "name": "COMITATO TERRITORIALE NAPOLI",
+            "phone": "Tel. 081-6124236",
+            "region": "CAMPANIA",
+            "title": "C.T. NAPOLI"
+        },
+        {
+            "address": "Via Fuorni di Sotto, 5, 84131- Salerno (SA)",
+            "email": "salerno@federvolley.it",
+            "id": "13066",
+            "logo": "https://www.fipavsalerno.it/files/2206/0/Link/LogoFIPAVCTSalerno.png",
+            "name": "COMITATO TERRITORIALE SALERNO",
+            "phone": "Tel. 089-330025",
+            "region": "CAMPANIA",
+            "title": "C.T. SALERNO"
+        },
+        {
+            "address": "Strada Torre Tresca, 36 - 70124 Bari",
+            "email": "segreteria@fipavpuglia.it",
+            "id": "15000",
+            "logo": "https://www.fipavpugliamagazine.it/images/Immagini_2018-2019/FipavPuglia_2018-2019/fipavpugliamagazine_banner.jpg",
+            "name": "COMITATO REGIONALE PUGLIA",
+            "phone": "Tel 080.5043662",
+            "region": "PUGLIA",
+            "title": "C.R. PUGLIA"
+        },
+        {
+            "address": "Strada Torre Tresca, 36 - 70124 Bari",
+            "email": "segreteria@fipavbarifoggia.it",
+            "id": "15073",
+            "logo": "https://portiamovalore.uniba.it/uploads/loghi/BAFG@3x_1721907631.png",
+            "name": "COMITATO TERRITORIALE BARI FOGGIA",
+            "phone": "Tel. 080/5096036",
+            "region": "PUGLIA",
+            "title": "C.T. BARI FOGGIA"
+        },
+        {
+            "address": "Edificio R2 - Piano interrato - Campus Universitario Ecotekne, Via Lecce - Monteroni - 73047 - Monteroni di Lecce (LE)",
+            "email": "lecce@federvolley.it",
+            "id": "15076",
+            "logo": "https://www.fipavpugliamagazine.it/2020/wp-content/uploads/2024/08/19.jpg",
+            "name": "COMITATO TERRITORIALE LECCE",
+            "phone": "Tel 0832/217594 - 0832/217791 - Fax 0832/217529",
+            "region": "PUGLIA",
+            "title": "C.T. LECCE"
+        },
+        {
+            "address": "c/o Sport e Salute, Via Pisa, 4  - 74121 Taranto (Ta)",
+            "email": "taranto@federvolley.it",
+            "id": "15077",
+            "logo": "https://www.fipavpugliamagazine.it/2020/wp-content/uploads/2024/08/18.jpg",
+            "name": "COMITATO TERRITORIALE TARANTO",
+            "phone": "Tel. 0997366741",
+            "region": "PUGLIA",
+            "title": "C.T. TARANTO"
+        },
+        {
+            "address": "Via dell'Edilizia, 2D - 85100 - Potenza (PZ)",
+            "email": "basilicata@federvolley.it",
+            "id": "16000",
+            "logo": "https://www.fipavbasilicata.it/files/1131/0/News/00_Logo-FIPAV-Basilicata_2017-Copia.jpg?w=180&h=120&mode=max&nocache=jkGS",
+            "name": "COMITATO REGIONALE BASILICATA",
+            "phone": "Tel. 0971-37123",
+            "region": "BASILICATA",
+            "title": "C.R. BASILICATA"
+        },
+        {
+            "address": "Via Camillo Camilliani, 158/A \u2013 90145 Palermo",
+            "email": "info@fipavsicilia.it",
+            "id": "18000",
+            "logo": "https://www.fipavsicilia.it/wp-content/uploads/2019/02/logosito.png",
+            "name": "COMITATO REGIONALE SICILIA",
+            "phone": "0916851873",
+            "region": "SICILIA",
+            "title": "C.R. SICILIA"
+        },
+        {
+            "address": "Via Alcide De Gasperi, 3 95030 Sant'Agata Li Battiati (CT)",
+            "email": "segreteria@fipavcatania.it",
+            "id": "18085",
+            "logo": "https://www.fipavcatania.it/wp-content/uploads/media-library/globali/marchi/marchio-fipav-catania.png",
+            "name": "COMITATO TERRITORIALE CATANIA",
+            "phone": "Tel. 0956130957",
+            "region": "SICILIA",
+            "title": "C.T. CATANIA"
+        },
+        {
+            "address": "Via Fratelli Di Mari 7, 98121 Messina",
+            "email": "messina@federvolley.it",
+            "id": "18087",
+            "logo": "https://lh6.googleusercontent.com/proxy/ZFEldlDgrmG3sTeBCuvrzHYd_dnNGbV5ZppY2WWLASTQDs0y7DTASt6ifCsxDynIdD2GNosAZnAyZW78NAXfxr18X8C-xkD_Q-Yh7t-2WlVfNi5OeJP39OIRdpKLzlvJ9xI",
+            "name": "COMITATO TERRITORIALE MESSINA",
+            "phone": "",
+            "region": "SICILIA",
+            "title": "C.T. MESSINA"
+        },
+        {
+            "address": "Via Camillo Camilliani 158/A 90145 Palermo PA",
+            "email": "segreteria@fipavpalermo.it",
+            "id": "18088",
+            "logo": "https://www.fipavpalermo.it/wp-content/uploads/2015/09/logo.png",
+            "name": "COMITATO TERRITORIALE PALERMO",
+            "phone": "Tel. 091 6851827",
+            "region": "SICILIA",
+            "title": "C.T. PALERMO"
+        },
+        {
+            "address": "Via Archimede, n. 216 \u2013 97100 RAGUSA (C/o SPORT&SALUTE)",
+            "email": "montiblei@federvolley.it",
+            "id": "18089",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBmLoTHp4KRJK8Tu79Es0-p1EvHRzRnwVcg&s",
+            "name": "COMITATO TERRITORIALE MONTI IBLEI",
+            "phone": "",
+            "region": "SICILIA",
+            "title": "C.T. MONTI IBLEI"
+        },
+        {
+            "address": "Via della quercia, 12 \u2013 91100 Trapani",
+            "email": "trapani@federvolley.it",
+            "id": "18091",
+            "logo": "https://fipavtrapani.it/wp-content/uploads/2022/07/Fipav-logo-menu.png",
+            "name": "COMITATO TERRITORIALE TRAPANI",
+            "phone": "Tel. 335 6324335",
+            "region": "SICILIA",
+            "title": "C.T. TRAPANI"
+        }
+    ]
+}
